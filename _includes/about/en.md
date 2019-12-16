@@ -1,4 +1,4 @@
-> Your time is limited, so don’t waste it living someone else’s life. 
+<!-- > Your time is limited, so don’t waste it living someone else’s life. 
 
 Hi, I am _@huxpro_ (Huang, Xuan), a will-be [Facebook](https://www.facebook.com/) software engineer and a professed digital designer. My interests range from programming languages in general (type system, type-based formal verification, compiler construction, runtime system) to indurstial software engineering (web/mobile app development, user interface and UX, developer infra and DX). 
 
@@ -45,4 +45,4 @@ I generally prefer languages that are close to ML ("Meta Language"), i.e. _mostl
 [6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
 [7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
 [8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
+[9]: //huangxuan.me/jsconfcn2017/ -->
