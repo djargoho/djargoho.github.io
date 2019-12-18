@@ -2,6 +2,7 @@
 title: "First Post Test"
 subtitle: "글씨도 괜찮은 게 있는 지 확인이 필요해보인다."
 layout: post
+type: post
 author: "DJArgoho"
 date: 2019-12-16 22:13:00
 header-style: text
