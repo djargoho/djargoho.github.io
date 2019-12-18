@@ -5,7 +5,7 @@ layout: post
 type: post
 author: "DJArgoho"
 date: 2019-12-16 22:13:00
-header-style: text
+# header-style: text
 header-img: img/forest-bg.jpg
 tags:
   - First
