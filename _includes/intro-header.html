@@ -9,7 +9,15 @@
         position: relative;
         background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');
         background: {{ page.header-bg-css }};
+        border: 5px solid #000 0.3;
         opacity: 0.7;
+    }
+
+    header.intro-header:hover{
+        position: relative;
+        background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');
+        background: {{ page.header-bg-css }};
+        opacity: 1;
     }
 
     {% if page.header-mask %}
