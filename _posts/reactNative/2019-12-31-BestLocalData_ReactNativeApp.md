@@ -39,7 +39,7 @@ tags:
 
 ### 1. Realm
 
-![Realm logo](../../img/reactNative/realm_logo.jpg  =250x)
+![Realm logo](img/reactNative/realm_logo.jpg)
 
 Realm은 SQLite에 대한 모바일 데이터베이스 대체제라 볼 수 있다.  
 그리고 자체 엔진을 쓰면서 Native NoSQL Database이기 때문에 SQLite보다 빠른 속도를 가진다.
@@ -64,7 +64,7 @@ Benchmark에 따르면 SQLite database(SQLite 튜닝 안했을 시)보다 기본
 
 ### 2. Firebase
 
-![Firebase logo](../../img/reactNative/firebase_logo.png)
+![Firebase logo](img/reactNative/firebase_logo.png)
 
 NoSQL cloud database에 데이터를 동기화하고 저장한다.  
 데이터는 모든 클라이언트에 실시간으로 동기화되고 오프라인일 때도 해당 앱에 데이터가 남아있다.  
@@ -79,7 +79,7 @@ iOS, Android, javascript SDK 등 크로스 플랫폼을 구상중이면,
 
 ### 3. SQLite
 
-![SQLite logo](../../img/reactNative/SQLite_logo.png)
+![SQLite logo](img/reactNative/SQLite_logo.png)
 
 SQLite는 디바이스에 데이타를 텍스트 파일로 저장하는 오픈소스 SQL Database이다.
 모든 관계형 데이터베이스의 특성들을 지원하고 있고,  
