@@ -28,18 +28,18 @@ tags:
 
 ## App을 위해 따져야할 Local Database 선택 요소
 
-**1. 오프라인 동기화를 지원**
-**2. 데이터베이스의 보안수준**
-**3. 읽기/쓰기 속도**
-**4. 지원하는 데이터 타입**
-**5. 가격**
-**6. 실시간 동기화 지원**
+**1. 오프라인 동기화를 지원**  
+**2. 데이터베이스의 보안수준**  
+**3. 읽기/쓰기 속도**  
+**4. 지원하는 데이터 타입**  
+**5. 가격**  
+**6. 실시간 동기화 지원**  
 
 ## Local DataBase
 
 ### 1. Realm
 
-![Realm logo](img/reactNative/realm_logo.jpg)
+![Realm logo](/img/reactNative/realm_logo.jpg)
 
 Realm은 SQLite에 대한 모바일 데이터베이스 대체제라 볼 수 있다.  
 그리고 자체 엔진을 쓰면서 Native NoSQL Database이기 때문에 SQLite보다 빠른 속도를 가진다.
@@ -64,7 +64,7 @@ Benchmark에 따르면 SQLite database(SQLite 튜닝 안했을 시)보다 기본
 
 ### 2. Firebase
 
-![Firebase logo](img/reactNative/firebase_logo.png)
+![Firebase logo](/img/reactNative/firebase_logo.png)
 
 NoSQL cloud database에 데이터를 동기화하고 저장한다.  
 데이터는 모든 클라이언트에 실시간으로 동기화되고 오프라인일 때도 해당 앱에 데이터가 남아있다.  
@@ -79,7 +79,7 @@ iOS, Android, javascript SDK 등 크로스 플랫폼을 구상중이면,
 
 ### 3. SQLite
 
-![SQLite logo](img/reactNative/SQLite_logo.png)
+![SQLite logo](/img/reactNative/SQLite_logo.png)
 
 SQLite는 디바이스에 데이타를 텍스트 파일로 저장하는 오픈소스 SQL Database이다.
 모든 관계형 데이터베이스의 특성들을 지원하고 있고,  
@@ -113,3 +113,9 @@ NoSQL database보다는 느리기 때문에, 비동기 환경에서 해당 datab
 - 관계형 DB
 - 완전 무료, 오픈 소스
 - ORM DB에 익숙한 사람 (SQL문)
+
+### Reference
+
+<https://aboutreact.com/local-database-in-react-native-app/>  
+<https://proandroiddev.com/realistic-realm-1-5-year-of-experience-cef75c8b164e>  
+<https://www.simform.com/react-native-database-selection-guide/>
