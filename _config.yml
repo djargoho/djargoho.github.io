@@ -6,7 +6,7 @@ header-img: img/forest-bg.jpg
 email: djargoho@gmail.com
 description: "취미로 개발을 하는 블로그"
 keyword: "React, JavaScript"
-url: "djargoho.github.io"              # your host, for absolute URL
+url: "https://djargoho.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
